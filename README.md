@@ -1,6 +1,3 @@
-## Map Preview
-![Mean elevation per NUTS region in Greece](outputs/mean_elevation_nuts_gr.png)
-
 # Zonal Elevation Statistics per NUTS Region in Greece
 
 ## Overview
@@ -36,7 +33,6 @@ are not suitable for detailed coastal or local studies.
 
 ---
 
-## Project Structure
 ## Project Structure
 ```text
 zonal_stats_greece/

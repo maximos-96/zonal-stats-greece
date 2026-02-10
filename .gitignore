@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Conda / virtual environments
+.env
+.venv
+conda-meta/
+envs/
+*.conda
+
+# VS Code
+.vscode/
+
+# Data (do NOT commit large rasters)
+data_raw/
+data_processed/
+
+# Outputs (optional – keep CSV/PNG if you want later)
+# outputs/
+
+# OS
+.DS_Store
+Thumbs.db

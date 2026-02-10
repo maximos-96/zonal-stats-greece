@@ -1,3 +1,6 @@
+## Map Preview
+![Mean elevation per NUTS region in Greece](outputs/mean_elevation_nuts_gr.png)
+
 ## Project Structure
 ```text
 zonal_stats_greece/
